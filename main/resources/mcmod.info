@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gf",
+  "name": "Gemify",
+  "description": "Adds various new gems, armor and ore-processesing machines.",
+  "version": "{0.1}",
+  "mcversion": "{1.7.10}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Torkel Velure","Inmetsu"],
+  "credits": "Written by Torkel, Textures by Inmetsu",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
